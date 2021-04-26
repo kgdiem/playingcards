@@ -1,6 +1,6 @@
 {
-  "name": "playingcards-js",
-  "version": "0.0.1",
+  "name": "@kgdiem/playingcards",
+  "version": "0.0.2",
   "description": "JS Playing cards",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -52,5 +52,6 @@
       "text",
       "text-summary"
     ]
-  }
+  },
+  "dependencies": {}
 }
